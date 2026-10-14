@@ -66,14 +66,15 @@ And again.
 </td>
 </tr>
 <tr>
-<td><img src="images/export.png" alt="Export LRC and the history list"></td>
+<td><img src="images/export.png" alt="The Recent list on the home screen"></td>
 <td valign="middle">
 
 ### Keep what you made
 
+Everything you've transcribed waits under Recent on the home screen. Open it
+again and the lyrics are already there, no second wait.
+
 Export LRC saves a standard synced-lyrics file that music players can read.
-Everything you've transcribed stays in History, so opening it again is
-instant.
 
 </td>
 </tr>
